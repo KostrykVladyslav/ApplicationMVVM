@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationMVVM</string>
+    <string name="login_label">Login</string>
+    <string name="empty_field_label">This field cannot be empty!</string>
+</resources>
